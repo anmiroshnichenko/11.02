@@ -9,13 +9,14 @@
   - увеличение скорости ответа на запрос
   - экономия ресурсов базы данных
   - сглаживание бустов трафика 
-  - 
----
+  ---
 
 ### Задание 2. Memcached
 Установите и запустите memcached.
 ## sudo apt update
 ![alt text](https://github.com/anmiroshnichenko/11.02/blob/e2016bcb22abeb862e5432f78231975ac7c74401/1.bmp)
+## sudo apt install memcached 
+![alt text](https://github.com/anmiroshnichenko/11.02/blob/main/2.jpg)
 
 `Приведите ответ в свободной форме........`
 
