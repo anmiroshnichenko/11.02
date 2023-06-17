@@ -15,7 +15,7 @@
 ### Задание 2. Memcached
 Установите и запустите memcached.
 ## sudo apt update
-(https://github.com/anmiroshnichenko/11.02/blob/e2016bcb22abeb862e5432f78231975ac7c74401/1.bmp)
+![alt text](https://github.com/anmiroshnichenko/11.02/blob/e2016bcb22abeb862e5432f78231975ac7c74401/1.bmp)
 
 `Приведите ответ в свободной форме........`
 
