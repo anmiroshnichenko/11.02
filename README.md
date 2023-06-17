@@ -28,7 +28,7 @@
 Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.
 
 ![alt text](https://github.com/anmiroshnichenko/11.02/blob/main/Screenshot_6.jpg)
-![alt text](https://github.com/anmiroshnichenko/11.02/blob/main/Screenshot_7.jpg)
+
 
 ## Дополнительные задания (со звездочкой*)
 
