@@ -27,7 +27,8 @@
 Запишите в Redis несколько ключей с любыми именами и значениями.
 Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.
 
-![alt text]()
+![alt text](https://github.com/anmiroshnichenko/11.02/blob/main/Screenshot_6.jpg)
+![alt text](https://github.com/anmiroshnichenko/11.02/blob/main/Screenshot_7.jpg)
 
 ## Дополнительные задания (со звездочкой*)
 
@@ -36,4 +37,5 @@
 ### Задание 5*. Работа с числами
 Запишите в Redis ключ key5 со значением типа "int" равным числу 5. Увеличьте его на 5, чтобы в итоге в значении лежало число 10.
 Приведите скриншот, где будут проделаны все операции и будет видно, что значение key5 стало равно 10.
-![alt text]()
+
+![alt text](![alt text](https://github.com/anmiroshnichenko/11.02/blob/main/Screenshot_8.jpg))
